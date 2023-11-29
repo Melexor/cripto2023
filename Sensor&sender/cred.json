@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proyectocriptotel",
+  "private_key_id": "32e3c7b4cfe3e70e96210d3adeeb1b6f0e19f513",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD2/Xtd6pt475am\nhNGIJrqjvu/HC8y2MADxFqSWj9zqCa5N4DDHEetepkOYyiuGLfnD79Yf03ohCAb0\nAOnI2/eIW0BcWqy/rMO/CL7nhRu98jvQcYV4c9pAFCKw5mfaLOS5zRkaA01579AF\nnO86A+GuPwUcADDwK7AmJcWH6nt36gh9fggTFRRH15OMXgvccZScD62u3iggLOKx\ncIl0VqYbcyI6pSL3BOQ/y0nJIwvSU4eptbCaxYbHmyh7ds9mJg+XhCJ8oomLb/7y\nLT7AgdwwYzU01pmt9cG8x836cvzR5C328bxPhTx1AE7r/X9oPzgvY4fHD4O6VVpC\nr7ZbsI11AgMBAAECggEAVzeqpT7v2NROEA5NyXTXqnQFyvWNO/aWlovm4e36VkDF\n5uUYhGt9AIbYzu7xUKgSj1C1fbaZZWmmvupFo/KdJe8HOrWgU+0nkGF/vFTCN6B+\n47v6pE7QzpjtqScrnB0HRd85kniBFuKKxDinN4bgXj4NyVX98gmTYd0rtDOmlvCB\noajXLXe0fzpAKdATQKilXT7nwsqWYcIUV+2QzbWW1CmhFr+mGTuATHnSK9aZvDlc\no6WrVK3xkpkUowwviMgZw0wpOTro2KDWdBY9HjEfsGyxjV2bPQuQfc1Bdx2/g/gp\nP9YBxpHcyJc7qnXjxE6ZRkodaM328enEIzHoY8cEPwKBgQD/824zjqpkl7WYGtbE\nrPq+1MtxrTqUQFE1B4Ha4d1y+dcZr0Btg0iQPddXtwK/dTfupu/Vc2ffSdAEpMO/\ny5EGGjrCIT7MV9i63l2kikcCLLt8M06Iuf15e+lhAQxdq8KjU5fEaqXT/h8G4yby\nqHH7woihpJX0yzGCSLVWa3jmqwKBgQD3CZyC+2wFBpnSjthpLRCcn2yTuwm/uyZO\nbSGyZBj9CpWqGto/qpLsUbU3q6a4wAiF4RHDWD7OLKRIUFlgLdebad+zq79PAgxS\ncS1BdRvL8WjsrlVNUOzYBVYlSfwERkC4/jYG6OL6Jm03k+sxvw/iETxyNPSDnRdx\nVWM1GsjcXwKBgQCfApHlL+3F3sZvf8ULnNeOdM8LiW5KKgcJZeeTnxyf0H2EtG7X\nWmdbTUAae1UWsvETr9xyBGd0vfug1ufRoNsxKlx0vIiyFKVNutX8Yfepbzbu+0UA\nBmRl88hSfn87NnkOVOGFoifxov+NnNNWj7V4jiuqGIEc+puAcEFQNiZ/TwKBgBCy\n15+K+zxDu/Ydrcc+Qpczt5Us2XXaYrZ+bf6vAXlpU8CR3BrdntzWkRdYRQbMBEd4\ndUjtGCG7psc0lzYHI0HgIDz26RGgI9EW0WZRUjWw9dS53A5D4B6iDbarj5uCXDGl\nDWXeLCmYm11cZFOShLJVU+6sYbLb1Y/Vo8UdMGKlAoGAF/uuqfii4vFfkDQG0ODD\nBJFyBjaSkUaV1T03FGRU61kDa5bjRh4JDOXqNCx1S7uggCx9ZsqTc22epkDd2ig4\nokgbjI32YgjRoMpTtGb7VCdsqqhSnemDEzqCkfSoEoItplAsCc631gRHL+NE6dmk\nE1Q+xXtEysSQ6jJAgea513s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "proyectocriptotel@proyectocriptotel.iam.gserviceaccount.com",
+  "client_id": "116758704614472232046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proyectocriptotel%40proyectocriptotel.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
